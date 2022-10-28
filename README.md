@@ -1,4 +1,4 @@
-# Example interactive bar chart
+# Example interactive scatter plot
 This repository demonstrates an example of an interactive scatterplot using D3 and JS. It visualizes red wine data by a user-selected x and y attribute. 
 
 ## About the data
