@@ -1,0 +1,46 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+
+circle {
+  fill: GoldenRod;
+  opacity: 0.3;
+}
+
+.menuDiv {
+  font-family: Helvetica, sans-serif;
+  color: #635F5D;
+}
+
+
+text {
+  font-family: Helvetica, sans-serif;
+}
+
+.tick text {
+  font-size: 1.4em;
+  fill: #635F5D;
+}
+
+.tick line {
+  stroke: #635F5D;
+}
+
+.axis-label {
+  font-size: 2em;
+  fill: #635F5D;
+}
+
+#menus {
+  font-size: 1em;
+  text-align: center;
+}
+
+#menus select {
+  font-size: 1.5em;
+}
+
+#menus select option {
+  font-size: 1.5em;
+}
